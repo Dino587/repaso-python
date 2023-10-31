@@ -1,7 +1,7 @@
 print("Hola mundo")
 print("Hola mundo")
 
-#soy duende de loco
+#soy yo
 print("Hola mundo")
 
 """
